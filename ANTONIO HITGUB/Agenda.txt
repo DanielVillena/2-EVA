@@ -1,0 +1,12 @@
+Datos amigo 1
+- Nombre --> fgdf
+- Localidad --> hdfdhfj
+- Codigo postal --> 345345376
+- Telefono	--> 346346346
+- Sexo	--> P
+Datos amigo 2
+- Nombre --> sdgfsdgdfjjk
+- Localidad --> sdgdfhjgfj
+- Codigo postal --> 63645
+- Telefono	--> 45778586
+- Sexo	--> F
